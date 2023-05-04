@@ -1,5 +1,5 @@
 import React from 'react'
-import { useParams, redirect, useNavigate, Link } from 'react-router-dom'
+import { useParams,  useNavigate, Link } from 'react-router-dom'
 import { useSelector } from 'react-redux'
 
 import EditForm from './EditForm'
